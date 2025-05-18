@@ -1,7 +1,19 @@
-## Hi there 👋
+<h1>Hi, I'm Vitaliy! <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Analyst</a>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+    
+<h2>📺 Certifications</h2>
+
+- [Google Cybersecurity Specialization](https://www.coursera.org/account/accomplishments/professional-cert/2GPC67M9BG9J)
+
+<h2> 🤳 Connect with me:</h2>
+
+[linkedin]: https://www.linkedin.com/in/vitaliy-lunyk-668605252/
 
 <!--
-**Vitaliycyber83/Vitaliycyber83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

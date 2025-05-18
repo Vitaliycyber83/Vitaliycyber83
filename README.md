@@ -1,4 +1,4 @@
-<h1>Hi, I'm Vitaliy! <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Analyst</a>
+<h1>Hi, I'm Vitaliy! <a href="https://www.linkedin.com/in/vitaliy-lunyk-668605252/">Cybersecurity Analyst</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 

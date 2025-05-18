@@ -8,6 +8,10 @@
 
 - [Google Cybersecurity Specialization](https://www.coursera.org/account/accomplishments/professional-cert/2GPC67M9BG9J)
 
+<h2>✅ I created cybersecurity potrfolio. 
+  
+  ### Please find it [here]()
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
